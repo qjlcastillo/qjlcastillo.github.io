@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
       <a href="https://github.com/qjlcastillo/Prelims.github.io/raw/main/Castillo_Activity%204%20-%20Running%20Elevated%20Ad%20hoc%20Commands-1%20(1).pdf" class="w3-bar-item w3-button">Activity 4</a>
     </div>
     <div class="w3-col m6 w3-padding-large w3-hide-small">
-      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/raw/main/aa.png" class="w3-round w3-image w3-opacity-min" alt="SSH" width="400" height="550">
+      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/raw/main/aa.jpg" class="w3-round w3-image w3-opacity-min" alt="SSH" width="400" height="550">
     </div>
   </div>
 </div>
