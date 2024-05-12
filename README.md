@@ -19,15 +19,14 @@ h1, h2, h3, h4, h5, h6 {
   <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
     <a>Castillo E-portfolio</a>
     <!-- Right-sided navbar links. Hide them on small screens -->
-    <div class="w3-right w3-hide-small">
-      <a href="https://qjlcastillo.github.io/About-me.github.io/" class="w3-bar-item w3-button">About Me</a>
-    </div>
   </div>
 </div>
 
 
 <!-- Page content -->
-<div class="w3-content" style="max-width:1100px">
+<div class="w3-right w3-hide-small">
+      <a href="https://qjlcastillo.github.io/About-me.github.io/" class="w3-bar-item w3-button">About Me</a>
+    </div>
 
 
   
