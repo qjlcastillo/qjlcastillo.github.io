@@ -60,6 +60,7 @@ h1, h2, h3, h4, h5, h6 {
     <div class="w3-row w3-padding-64" id="about">
     <div class="w3-col m6 w3-padding-large w3-hide-small">
      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/bb.png" class="w3-round w3-image w3-opacity-min" alt="Ansible" width="400" height="550">
+      </div>
   <div class="w3-row w3-padding-64" id="menu">
     <div class="w3-col l6 w3-padding-large">
       <a href="https://qjlcastillo.github.io/midterms.github.io/" class="w3-xxlarge w3-button">Midterms</a>
@@ -82,6 +83,7 @@ h1, h2, h3, h4, h5, h6 {
     <div class="w3-row w3-padding-64" id="about">
     <div class="w3-col m6 w3-padding-large w3-hide-small">
      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/cc.jpg" class="w3-round w3-image w3-opacity-min" alt="OpenStack" width="400" height="550">
+      </div>
   <div class="w3-row w3-padding-64" id="menu">
     <div class="w3-col l6 w3-padding-large">
       <a href="https://qjlcastillo.github.io/Finals.github.io/" class="w3-xxlarge w3-button">Finals</a>
