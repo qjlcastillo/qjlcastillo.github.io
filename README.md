@@ -4,7 +4,7 @@
 
 ![](./docs/images/reptar.png)
 
-The static site generator formerly known as yarn.
+.
 
 ---
 
