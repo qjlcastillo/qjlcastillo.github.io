@@ -79,8 +79,7 @@ h1, h2, h3, h4, h5, h6 {
       <a href="https://github.com/qjlcastillo/Finals.github.io/blob/main/Group%202_Activity%2015-%20OpenStack%20Installation%20(Neutron%2C%20Horizon%2C%20Cinder).pdf" class="w3-bar-item w3-button">Activity 15</a>
     </div>
     <div class="w3-col m6 w3-padding-large w3-hide-small">
-      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/cc.jpg" class="w3-round w3-image w3-opacity-min" alt="OpenStack" width="400" height="550">
+      <img src="https://raw.githubusercontent.com/qjlcastillo/qjlcastillo.github.io/main/cc.jpg" class="w3-round w3-image w3-opacity-min" alt="OpenStack" width="400" height="550">
     </div>
   </div>
 </div>
-
