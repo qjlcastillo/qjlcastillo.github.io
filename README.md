@@ -22,7 +22,7 @@ body {font-size:16px;}
     <h3 class="w3-padding-64"><b>Castillo<br>E-Portfolio</b></h3>
   </div>
   <div class="w3-bar-block"> 
-    <a href="#About Me" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">About Me</a> 
+    <a href="#https://qjlcastillo.github.io/About-me.github.io/" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">About Me</a> 
   </div>
 </nav>
 
