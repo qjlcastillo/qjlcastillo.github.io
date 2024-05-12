@@ -39,7 +39,8 @@ h1, h2, h3, h4, h5, h6 {
       <h4>Contents:</h4>
       
       
-      <a href=["https://qjlcastillo.github.io/Prelims.github.io/](https://github.com/qjlcastillo/Prelims.github.io/blob/main/Activity%201%20-%20Creating%20Virtual%20Machines%20in%20Microsoft%20Azure-1%20(3).pdf)" class="w3-bar-item w3-button">Activity 1</a>
+      <a href="https://github.com/qjlcastillo/Prelims.github.io/blob/main/Activity%201%20-%20Creating%20Virtual%20Machines%20in%20Microsoft%20Azure-1%20(3).pdf" class="w3-bar-item w3-button">Activity 1</a>
+      <h4>Contents:</h4>
       <h4>Activty 2</h4>
       <h4>Activty 3</h4>
       <h4>Activty 4</h4>
