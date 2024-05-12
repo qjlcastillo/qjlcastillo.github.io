@@ -14,6 +14,8 @@
 
 [Finals](./docs/CONTRIBUTING.md)
 
+[About me]
+
 
 
 
