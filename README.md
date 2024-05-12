@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>W3.CSS Template</title>
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
       <h4>Activty 4</h4>
          
     <div class="w3-right w3-hide-small">
-      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/aa.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/aa.jpg" 
     </div>
   </div>
 
