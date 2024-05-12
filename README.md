@@ -10,7 +10,7 @@
 
 [Prelims](https://qjlcastillo.github.io/Prelims.github.io/)
 
-[Midterms](./docs/DEVELOPMENT.md)
+[Midterms](https://qjlcastillo.github.io/midterms.github.io/)
 
 [Finals](./docs/CONTRIBUTING.md)
 
