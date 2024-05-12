@@ -46,11 +46,11 @@ h1, h2, h3, h4, h5, h6 {
 
      <a href="https://github.com/qjlcastillo/Prelims.github.io/blob/main/Castillo_Activity%203%20-%20Install%20SSH%20server%20on%20CentOS%20or%20RHEL%208%20(3).pdf" class="w3-bar-item w3-button">Activity 3</a>
 
+
      <a href="https://github.com/qjlcastillo/Prelims.github.io/blob/main/Castillo_Activity%204%20-%20Running%20Elevated%20Ad%20hoc%20Commands-1%20(1).pdf">Activity 4</a>
     </div>
   </div>
    
-
 
   <!-- Midterm section -->
   <div class="w3-row w3-padding-64" id="menu">
@@ -58,12 +58,17 @@ h1, h2, h3, h4, h5, h6 {
       <a href="https://qjlcastillo.github.io/midterms.github.io/" class="w3-bar-item w3-button">Midterms</a>
       
       <h4>Contents:</h4>
+       <a href="https://github.com/qjlcastillo/midterms.github.io/blob/main/Castillo_Activity%206%20-%20Targeting%20Specific%20Nodes%20(1).pdf" class="w3-bar-item w3-button">Activity 6</a>
+
+        <a href="https://github.com/qjlcastillo/midterms.github.io/blob/main/Activity%207%20-%20Managing%20Files%20and%20Creating%20Roles%20in%20Ansible.pdf" class="w3-bar-item w3-button">Activity 7</a>
+
+         <a href="https://github.com/qjlcastillo/midterms.github.io/blob/main/Castillo_Activity%208_%20Install%2C%20Configure%2C%20and%20Manage%20Availability%20Monitoring%20tools%20%20(1).pdf" class="w3-bar-item w3-button">Activity 8</a>
+
+          <a href="https://github.com/qjlcastillo/midterms.github.io/blob/main/Castillo_Activity%209_%20Install%2C%20Configure%2C%20and%20Manage%20Performance%20Monitoring%20tools.pdf" class="w3-bar-item w3-button">Activity 9</a>
+
+           <a href="https://github.com/qjlcastillo/midterms.github.io/blob/main/Castillo_Activity%2010_%20Install%2C%20Configure%2C%20and%20Manage%20Log%20Monitoring%20tools.pdf" class="w3-bar-item w3-button">Activity 10</a>
       
-      
-      <h4>Activty 7</h4>
-      <h4>Activty 8</h4>
-      <h4>Activty 9</h4>
-      <h4>Activty 10</h4>
+<a href="https://github.com/qjlcastillo/midterms.github.io/blob/main/Castillo_Midterm%20Skills%20Exam%20-%20CPE%20232%20.pdf" class="w3-bar-item w3-button">Midterm Skills Exam</a>
          
     
     <div class="w3-right w3-hide-small">
