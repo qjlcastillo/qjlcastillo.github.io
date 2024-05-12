@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <!-- Page content -->
 <div class="w3-right w3-hide-small">
-      <a href="https://qjlcastillo.github.io/About-me.github.io/" class="w3-bar-item w3-button">About Me</a>
+      <a href="https://qjlcastillo.github.io/About-me.github.io/" class="w3-padding-xxlarge w3-button">About Me</a>
     </div>
 
 
@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
   
   <!-- Prelim Section -->
   <div class="w3-row w3-padding-64" id="menu">
-      <a href="https://qjlcastillo.github.io/Prelims.github.io/" class="w3-xxlarge w3-button">Prelims</a>
+      <a href="https://qjlcastillo.github.io/Prelims.github.io/" class="w3-padding-xxlarge w3-button">Prelims</a>
       <h4>Contents:</h4>
       
       
@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
   <!-- Midterm section -->
   <div class="w3-row w3-padding-64" id="menu">
     <div class="w3-col l6 w3-padding-large">
-      <a href="https://qjlcastillo.github.io/midterms.github.io/" class="w3-xxlarge w3-button">Midterms</a>
+      <a href="https://qjlcastillo.github.io/midterms.github.io/" class="w3-padding-xxlarge w3-button">Midterms</a>
       
       <h4>Contents:</h4>
        <a href="https://github.com/qjlcastillo/midterms.github.io/blob/main/Castillo_Activity%206%20-%20Targeting%20Specific%20Nodes%20(1).pdf" class="w3-bar-item w3-button">Activity 6</a>
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   <!-- Final section -->
   <div class="w3-row w3-padding-64" id="menu">
     <div class="w3-col l6 w3-padding-large">
-      <a href="https://qjlcastillo.github.io/Finals.github.io/" class="w3-xxlarge w3-button">Finals</a>
+      <a href="https://qjlcastillo.github.io/Finals.github.io/" class="w3-padding-xxlarge w3-button">Finals</a>
 
       
       <h4>Contents:</h4>  
