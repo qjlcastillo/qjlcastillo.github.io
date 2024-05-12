@@ -1,102 +1,33 @@
+# reptar
 
-<html>
-<head>
-<title>W3.CSS Template</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style>
-body {font-family: "Times New Roman", Georgia, Serif;}
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display";
-  letter-spacing: 5px;
-}
-</style>
-</head>
-<body>
+[![npm version][npm-badge]][npm-url]
+[![Build Status][travis-badge]][travis-url]
+[![Coverage Status][coveralls-badge]][coveralls-url]
+[![Gitter][gitter-badge]][gitter-url]
 
-<!-- Navbar (sit on top) -->
-<div class="w3-top">
-  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
-    <a>Castillo E-portfolio</a>
-    <!-- Right-sided navbar links. Hide them on small screens -->
-    <div class="w3-right w3-hide-small">
-      <a href="https://qjlcastillo.github.io/About-me.github.io/" class="w3-bar-item w3-button">About Me</a>
-    </div>
-  </div>
-</div>
+Static sites that roar.
 
+![](./docs/images/reptar.png)
 
-<!-- Page content -->
-<div class="w3-content" style="max-width:1100px">
+The static site generator formerly known as yarn.
 
+---
 
-  
+Looking for documentation? [Go to the website.](http://reptar.github.io/)
 
-  
-  <!-- Prelim Section -->
-  <div class="w3-row w3-padding-64" id="menu">
-      <a href="https://qjlcastillo.github.io/Prelims.github.io/" class="w3-bar-item w3-button">Prelims</a>
-      <h4>Contents:</h4>
-      
-      
-      <h4>Activty 1</h4>
-      <h4>Activty 2</h4>
-      <h4>Activty 3</h4>
-      <h4>Activty 4</h4>
-         
-    <div class="w3-right w3-hide-small">
-      <img> src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/aa.jpg" </img>
-    </div>
-  </div>
+Looking to hack on Reptar? [Go to DEVELOPMENT.md.](./docs/DEVELOPMENT.md)
 
+Looking for contributions guidelines? [Go to CONTRIBUTING.md.](./docs/CONTRIBUTING.md)
 
-  <!-- Midterm section -->
-  <div class="w3-row w3-padding-64" id="menu">
-    <div class="w3-col l6 w3-padding-large">
-      <a href="https://qjlcastillo.github.io/midterms.github.io/" class="w3-bar-item w3-button">Midterms</a>
-      
-      <h4>Contents:</h4>
-      
-      
-      <h4>Activty 7</h4>
-      <h4>Activty 8</h4>
-      <h4>Activty 9</h4>
-      <h4>Activty 10</h4>
-         
-    
-    <div class="w3-right w3-hide-small">
-      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/bb.png" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
-    </div>
-  </div>
+[Join the chatroom!][gitter-url]
 
+[Read the source code documentation.](http://reptar.github.io/reptar/)
 
-  
-  <!-- Final section -->
-  <div class="w3-row w3-padding-64" id="menu">
-    <div class="w3-col l6 w3-padding-large">
-      <a href="https://qjlcastillo.github.io/Finals.github.io/" class="w3-bar-item w3-button">Finals</a>
-      <h4>Contents:</h4>
-      
-      
-      <h4>Activty 12</h4>
-      <h4>Activty 13</h4>
-      <h4>Activty 14</h4>
-      <h4>Activty 15</h4>
-         
-    <div class="w3-right w3-hide-small">
-      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/cc.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
-    </div>
-  </div>
-
-
-</body>
-</html>
-
-
-
-
-
-
-
-
+[npm-badge]: https://badge.fury.io/js/reptar.svg
+[npm-url]: http://badge.fury.io/js/reptar
+[travis-badge]: https://travis-ci.org/reptar/reptar.svg?branch=master
+[travis-url]: https://travis-ci.org/reptar/reptar
+[coveralls-badge]: https://coveralls.io/repos/github/reptar/reptar/badge.svg
+[coveralls-url]: https://coveralls.io/github/reptar/reptar
+[gitter-badge]: https://img.shields.io/gitter/room/Lobby/reptar.js.svg
+[gitter-url]: https://gitter.im/reptar/Lobby
