@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
-    <a>Castillo E-portfolio</a>
+    <a  href="https://qjlcastillo.github.io/">Castillo E-portfolio</a>
     <!-- Right-sided navbar links. Hide them on small screens -->
   </div>
 </div>
