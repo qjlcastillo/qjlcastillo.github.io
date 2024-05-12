@@ -44,10 +44,8 @@ h1, h2, h3, h4, h5, h6 {
       <h4>Activty 3</h4>
       <h4>Activty 4</h4>
          
-    <div class="w3-right w3-hide-small">
-      ![](./docs/images/reptar.png)
-    </div>
-  </div>
+    ![](./docs/images/reptar.png)
+   
 
 
   <!-- Midterm section -->
