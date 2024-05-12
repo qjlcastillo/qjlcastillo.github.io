@@ -43,8 +43,9 @@ h1, h2, h3, h4, h5, h6 {
       <h4>Activty 2</h4>
       <h4>Activty 3</h4>
       <h4>Activty 4</h4>
-         
-    ![](./docs/images/reptar.png)
+       <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/aa.png" alt="SSH">
+    </div>
+  </div>
    
 
 
