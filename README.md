@@ -7,7 +7,7 @@
 
  [Prelims.] https://github.com/qjlcastillo/qjlcastillo.github.io/tree/main/Prelims
 
- [Midterms.]
+ [Midterms.] https://github.com/qjlcastillo/qjlcastillo.github.io/tree/main/Midterms
 
  [Finals.]
 
