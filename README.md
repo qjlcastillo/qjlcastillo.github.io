@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
          
     
     <div class="w3-right w3-hide-small">
-      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/bb.png" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/bb.png">
     </div>
   </div>
 
@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
       <h4>Activty 15</h4>
          
     <div class="w3-right w3-hide-small">
-      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/cc.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/cc.png">
     </div>
   </div>
 
