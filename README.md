@@ -9,7 +9,7 @@
 
  [Midterms.] https://github.com/qjlcastillo/qjlcastillo.github.io/tree/main/Midterms
 
- [Finals.]
+ [Finals.] https://github.com/qjlcastillo/qjlcastillo.github.io/tree/main/finals
 
 
 
