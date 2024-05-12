@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
   <!-- Prelim Section -->
   <div class="w3-row w3-padding-64" id="about">
     <div class="w3-col m6 w3-padding-large w3-hide-small">
-     <img src="/w3images/tablesetting2.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+     <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/aa.jpg" class="w3-round w3-image w3-opacity-min" alt="SSH" width="600" height="750">
     </div>
 
   <div class="w3-row w3-padding-64" id="menu">
