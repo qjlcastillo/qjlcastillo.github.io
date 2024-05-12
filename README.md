@@ -70,13 +70,6 @@ h1, h2, h3, h4, h5, h6 {
       
 <a href="https://github.com/qjlcastillo/midterms.github.io/blob/main/Castillo_Midterm%20Skills%20Exam%20-%20CPE%20232%20.pdf" class="w3-bar-item w3-button">Midterm Skills Exam</a>
          
-    
-    <div class="w3-right w3-hide-small">
-      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/bb.png">
-    </div>
-  </div>
-
-
   
   <!-- Final section -->
   <div class="w3-row w3-padding-64" id="menu">
@@ -85,19 +78,17 @@ h1, h2, h3, h4, h5, h6 {
       <h4>Contents:</h4>
       
       
-      <h4>Activty 12</h4>
-      <h4>Activty 13</h4>
-      <h4>Activty 14</h4>
-      <h4>Activty 15</h4>
+<a href="https://github.com/qjlcastillo/Finals.github.io/blob/main/Castillo_Activity%2012%20Build%20a%20Sample%20Web%20App%20in%20a%20Docker%20Container.pdf" class="w3-bar-item w3-button">Activity 12</a>
+
+<a href="https://github.com/qjlcastillo/Finals.github.io/blob/main/Group2_Activity%2013%20-%20OpenStack%20Prerequisite%20Installation.docx.pdf" class="w3-bar-item w3-button">Activity 13</a>
+
+<a href="https://github.com/qjlcastillo/Finals.github.io/blob/main/GROUP2_Activity-14-OpenStack-Installation-Keystone-Glance-Nova-1.pdf" class="w3-bar-item w3-button">Activity 14</a>
+
+<a href="https://github.com/qjlcastillo/Finals.github.io/blob/main/Group%202_Activity%2015-%20OpenStack%20Installation%20(Neutron%2C%20Horizon%2C%20Cinder).pdf" class="w3-bar-item w3-button">Activity 15</a>
          
-    <div class="w3-right w3-hide-small">
-      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/cc.png">
-    </div>
-  </div>
+    
 
 
-</body>
-</html>
 
 
 
