@@ -1,5 +1,5 @@
 # Castillo E-portfolio
-[About me](./docs/CONTRIBUTING.md)
+[About me](https://qjlcastillo.github.io/About-me.github.io/)
 
 
 ![](./docs/images/reptar.png)
@@ -12,7 +12,7 @@
 
 [Midterms](https://qjlcastillo.github.io/midterms.github.io/)
 
-[Finals](https://qjlcastillo.github.io/Finals.github.io/))
+[Finals](https://qjlcastillo.github.io/Finals.github.io/)
 
 
 
