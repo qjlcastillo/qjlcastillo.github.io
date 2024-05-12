@@ -71,17 +71,17 @@ body {font-size:16px;}
 
   <!-- Finals -->
   <div class="w3-container" id="services" style="margin-top:75px">
-    <h1 class="w3-xxxlarge w3-text-red"><b>Services.</b></h1>
+    <h1 class="w3-xxxlarge w3-text-red"><b>Prelims.</b></h1>
     <hr style="width:50px;border:5px solid red" class="w3-round">
 
       <!-- Midterms -->
   <div class="w3-container" id="services" style="margin-top:75px">
-    <h1 class="w3-xxxlarge w3-text-red"><b>Services.</b></h1>
+    <h1 class="w3-xxxlarge w3-text-red"><b>Midterms.</b></h1>
     <hr style="width:50px;border:5px solid red" class="w3-round">
 
       <!-- Prelims -->
   <div class="w3-container" id="services" style="margin-top:75px">
-    <h1 class="w3-xxxlarge w3-text-red"><b>Services.</b></h1>
+    <h1 class="w3-xxxlarge w3-text-red"><b>Finals.</b></h1>
     <hr style="width:50px;border:5px solid red" class="w3-round">
    
  
