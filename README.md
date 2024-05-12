@@ -14,7 +14,7 @@
 
 [Finals](./docs/CONTRIBUTING.md)
 
-[About me]
+[About me](./docs/CONTRIBUTING.md)
 
 
 
