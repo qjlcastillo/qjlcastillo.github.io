@@ -64,4 +64,20 @@ h1, h2, h3, h4, h5, h6 {
       <a href="https://github.com/qjlcastillo/midterms.github.io/blob/main/Castillo_Activity%209_%20Install%2C%20Configure%2C%20and%20Manage%20Performance%20Monitoring%20tools.pdf" class="w3-bar-item w3-button">Activity 9</a>
 
        <a href="https://github.com/qjlcastillo/midterms.github.io/blob/main/Castillo_Activity%2010_%20Install%2C%20Configure%2C%20and%20Manage%20Log%20Monitoring%20tools.pdf" class="w3-bar-item w3-button">Activity 10</a>
+       
 <a href="https://github.com/qjlcastillo/midterms.github.io/blob/main/Castillo_Midterm%20Skills%20Exam%20-%20CPE%20232%20.pdf" class="w3-bar-item w3-button">Midterm Skills Exam</a>
+
+<!-- Final section -->
+<div class="w3-row w3-padding-64" id="about">
+<div class="w3-col m6 w3-padding-large w3-hide-small">
+ <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/blob/main/cc.jpg" class="w3-round w3-image w3-opacity-min" alt="OpenStack" width="400" height="550">
+  </div>
+<div class="w3-row w3-padding-64" id="menu"> <div class="w3-col l6 w3-padding-large"> <a href="https://qjlcastillo.github.io/Finals.github.io/" class="w3-xxlarge w3-button">Finals</a>
+<h4>Contents:</h4>
+<a href="https://github.com/qjlcastillo/Finals.github.io/blob/main/Castillo_Activity%2012%20Build%20a%20Sample%20Web%20App%20in%20a%20Docker%20Container.pdf" class="w3-bar-item w3-button">Activity 12</a>
+<a href="https://github.com/qjlcastillo/Finals.github.io/blob/main/Group2_Activity%2013%20-%20OpenStack%20Prerequisite%20Installation.docx.pdf" class="w3-bar-item w3-button">Activity 13</a>
+
+<a href="https://github.com/qjlcastillo/Finals.github.io/blob/main/GROUP2_Activity-14-OpenStack-Installation-Keystone-Glance-Nova-1.pdf" class="w3-bar-item w3-button">Activity 14</a>
+
+<a href="https://github.com/qjlcastillo/Finals.github.io/blob/main/Group%202_Activity%2015-%20OpenStack%20Installation%20(Neutron%2C%20Horizon%2C%20Cinder).pdf" class="w3-bar-item w3-button">Activity 15</a>
+
