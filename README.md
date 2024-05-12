@@ -8,7 +8,7 @@
 
 ---
 
-[Prelims](http://reptar.github.io/)
+[Prelims](https://qjlcastillo.github.io/Prelims.github.io/)
 
 [Midterms](./docs/DEVELOPMENT.md)
 
