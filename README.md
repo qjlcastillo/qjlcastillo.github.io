@@ -31,22 +31,20 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-<!-- Prelim Section -->
-<div class="w3-row w3-padding-64" id="about">
-  <div class="w3-col m6 w3-padding-large w3-hide-small"></div>
-  <div class="w3-row w3-padding-64" id="menu">
-    <a href="https://qjlcastillo.github.io/Prelims.github.io/" class="w3-xxlarge w3-button">Prelims</a>
-    <h4>Contents:</h4>
-    <a href="https://github.com/qjlcastillo/Prelims.github.io/raw/main/Activity%201%20-%20Creating%20Virtual%20Machines%20in%20Microsoft%20Azure-1%20(3).pdf" class="w3-bar-item w3-button">Activity 1</a>
-    <a href="https://github.com/qjlcastillo/Prelims.github.io/raw/main/Castillo_Activity%202%20-%20SSH%20Key-Based%20Authentication%20and%20GIT%20Setup-1-1%20(1).pdf" class="w3-bar-item w3-button">Activity 2</a>
-    <a href="https://github.com/qjlcastillo/Prelims.github.io/raw/main/Castillo_Activity%203%20-%20Install%20SSH%20server%20on%20CentOS%20or%20RHEL%208%20(3).pdf" class="w3-bar-item w3-button">Activity 3</a>
-    <a href="https://github.com/qjlcastillo/Prelims.github.io/raw/main/Castillo_Activity%204%20-%20Running%20Elevated%20Ad%20hoc%20Commands-1%20(1).pdf" class="w3-bar-item w3-button">Activity 4</a>
-    <div class="w3-col m6 w3-padding-large w3-hide-small">
-      <img src="https://github.com/qjlcastillo/qjlcastillo.github.io/raw/main/aa.png" class="w3-round w3-image w3-opacity-min" alt="SSH" width="400" height="550">
-    </div>
-  </div>
-</div>
+<!-- Prelim Section --> 
+<div class="w3-row w3-padding-64" id="about"> 
+<div class="w3-col m6 w3-padding-large w3-hide-small"> 
+<img src="https://github.com/qjlcastillo/qjlcastillo.github.io/raw/main/aa.png" class="w3-round w3-image w3-opacity-min" alt="SSH" width="400" height="550"> 
 
+<div class="w3-row w3-padding-64" id="menu"> 
+<a href="https://qjlcastillo.github.io/Prelims.github.io/" class="w3-xxlarge w3-button">Prelims</a> 
+<h4>Contents:</h4> 
+<a href="https://github.com/qjlcastillo/Prelims.github.io/raw/main/Activity%201%20-%20Creating%20Virtual%20Machines%20in%20Microsoft%20Azure-1%20(3).pdf" class="w3-bar-item w3-button">Activity 1</a> 
+<a href="https://github.com/qjlcastillo/Prelims.github.io/raw/main/Castillo_Activity%202%20-%20SSH%20Key-Based%20Authentication%20and%20GIT%20Setup-1-1%20(1).pdf" class="w3-bar-item w3-button">Activity 2</a> 
+<a href="https://github.com/qjlcastillo/Prelims.github.io/raw/main/Castillo_Activity%203%20-%20Install%20SSH%20server%20on%20CentOS%20or%20RHEL%208%20(3).pdf" class="w3-bar-item w3-button">Activity 3</a> 
+<a href="https://github.com/qjlcastillo/Prelims.github.io/raw/main/Castillo_Activity%204%20-%20Running%20Elevated%20Ad%20hoc%20Commands-1%20(1).pdf" class="w3-bar-item w3-button">Activity 4</a> 
+
+  
   <!-- Midterm section -->
   <div class="w3-row w3-padding-64" id="about">
     <div class="w3-col m6 w3-padding-large w3-hide-small">
