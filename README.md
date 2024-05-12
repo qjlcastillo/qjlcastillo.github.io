@@ -74,9 +74,9 @@ h1, h2, h3, h4, h5, h6 {
   <div class="w3-row w3-padding-64" id="menu">
     <div class="w3-col l6 w3-padding-large">
       <a href="https://qjlcastillo.github.io/Finals.github.io/" class="w3-bar-item w3-button">Finals</a>
-      <h4>Contents:</h4>
+
       
-      
+      <h4>Contents:</h4>  
 <a href="https://github.com/qjlcastillo/Finals.github.io/blob/main/Castillo_Activity%2012%20Build%20a%20Sample%20Web%20App%20in%20a%20Docker%20Container.pdf" class="w3-bar-item w3-button">Activity 12</a>
 
 <a href="https://github.com/qjlcastillo/Finals.github.io/blob/main/Group2_Activity%2013%20-%20OpenStack%20Prerequisite%20Installation.docx.pdf" class="w3-bar-item w3-button">Activity 13</a>
