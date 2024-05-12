@@ -9,10 +9,11 @@
 
 ---
 
-Looking for documentation? [Go to the website.](http://reptar.github.io/)
+ [Prelims.]
 
-Looking to hack on Reptar? [Go to DEVELOPMENT.md.](./docs/DEVELOPMENT.md)
+ [Midterms.]
 
+ [Finals.]
 
 
 
